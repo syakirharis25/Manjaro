@@ -23,6 +23,7 @@ Manjaro official website : https://manjaro.org <br />
 
 **_Manjaro related tools_** <br />
 Microsoft File Checksum Integrity Verifier : https://www.microsoft.com/en-us/download/details.aspx?id=11533 <br />
+MD5 & SHA Checksum Utility by SOFTPEDIA : https://www.softpedia.com/get/Security/Security-Related/MD5-and-SHA-1-Checksum-Utility.shtml <br />
 
 <a name="developers"></a>
 ## 3. Manjaro developers.
