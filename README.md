@@ -21,6 +21,9 @@ Manjaro repositories are managed with their own tool called BoxIt, which is desi
 ## 2. Official references websites.
 Manjaro official website : https://manjaro.org <br />
 
+**_Manjaro related tools_** <br />
+Microsoft File Checksum Integrity Verifier : https://www.microsoft.com/en-us/download/details.aspx?id=11533 <br />
+
 <a name="developers"></a>
 ## 3. Manjaro developers.
 [ draft ]
